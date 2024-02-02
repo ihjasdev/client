@@ -3,9 +3,9 @@ import { useState, useEffect } from 'react';
 
 function Intro() {
   const jobTitles = [
-    "UI/UX Designer",
-    "Web Developer",
     "Associate Software Engineer",
+    "frontend Developer",
+    "Web Developer",
     // Add more job titles as needed
   ];
   
