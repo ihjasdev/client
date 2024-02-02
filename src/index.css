@@ -6,3 +6,20 @@
 * {
     font-family: 'Montserrat Alternates', sans-serif;
 }
+
+/* width */
+::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background-color: #004953;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #057a83dc; 
+    border-radius: 10px;
+  }
+  
