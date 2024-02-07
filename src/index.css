@@ -23,3 +23,56 @@
     border-radius: 10px;
   }
   
+  i{
+    cursor: pointer;
+    font-size: 20px;
+
+  }
+  i:hover {
+    color: #f2f2f2dc;
+  }
+
+  .a{
+    animation: a 1s infinite;
+  }
+  @keyframes a{
+    0%{
+      opacity: 1;
+    }
+    50%{
+      opacity: 0.5;
+    }
+    100%{
+      opacity: 0.5;
+    }
+  }
+
+  .m{
+    animation: m 1s infinite;
+  }
+  @keyframes m{
+    0%{
+      opacity: 0.5;
+    }
+    50%{
+      opacity: 1;
+    }
+    100%{
+      opacity: 0.5;
+    }
+  }
+
+  .i{
+    animation: i 1s infinite;
+  }
+  @keyframes i{
+    0%{
+      opacity: 0.5;
+    }
+    50%{
+      opacity: 0.5;
+    }
+    100%{
+      opacity: 1;
+    }
+  }

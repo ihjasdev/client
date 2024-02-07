@@ -8,12 +8,13 @@ function About() {
         "Node",
         "Express",
         "MongoDB",
-        "Tailwind",
+        "TailwindCSS",
         "firebase",
         "Nextjs",
         "Redux",
         "Git",
         "VScode",
+        "Postman",
 
       ]
   return (
